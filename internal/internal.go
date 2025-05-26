@@ -26,7 +26,7 @@ import (
 	"strings"
 	"time"
 
-	"boundary-cli/pkg/utils"
+	"github.com/maksim-paskal/boundary-cli/pkg/utils"
 
 	"github.com/briandowns/spinner"
 	"github.com/manifoldco/promptui"

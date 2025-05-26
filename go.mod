@@ -1,4 +1,4 @@
-module boundary-cli
+module github.com/maksim-paskal/boundary-cli
 
 go 1.24.1
 

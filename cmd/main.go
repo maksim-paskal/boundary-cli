@@ -13,12 +13,13 @@ limitations under the License.
 package main
 
 import (
-	"boundary-cli/internal"
 	"context"
 	"errors"
 	"flag"
 	"fmt"
 	"log/slog"
+
+	"github.com/maksim-paskal/boundary-cli/internal"
 
 	"github.com/manifoldco/promptui"
 )
