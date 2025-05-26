@@ -13,3 +13,6 @@ export BOUNDARY_SCOPE_ID=p_12345678
 export BOUNDARY_AUTH_METHOD_ID=amoidc_12345678
 ```
 Install latest helper
+```
+brew install maksim-paskal/tap/boundary-cli
+```
